@@ -1,5 +1,5 @@
 # Курс по Angular 2
-[Этот онлайн-курс посвящён профессиональной разработке веб-приложений с помощью Angular2](https://learn.javascript.ru/courses/angular2){:target="_blank"}
+<a href="https://learn.javascript.ru/courses/angular2" target="_blank">Этот онлайн-курс посвящён профессиональной разработке веб-приложений с помощью Angular2</a>
 
 ## Основные темы программы
 
